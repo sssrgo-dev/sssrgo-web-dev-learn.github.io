@@ -1,5 +1,5 @@
 # Sergey Shikhabudinov
-My it-development life and information science investigation
+## My homework results
 
 [Урок - 3](https://sssrgo-web-dev-learn.github.io\урок-3\src\index.html "Сделанная работа 3-го урока") - Свёрстанный сайт (не нумеровал папки до 8 урока...);
 
