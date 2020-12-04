@@ -1,7 +1,7 @@
 # Sergey Shikhabudinov
 ## My homework results
 
-[Урок - 3](https://sssrgo-web-dev-learn.github.io\урок-3\src\index.html "Сделанная работа 3-го урока") - Свёрстанный сайт (не нумеровал папки до 8 урока...);
+[Урок - 3](https://sssrgo-web-dev-learn.github.io\урок-3\src\ "Сделанная работа 3-го урока") - Свёрстанный сайт (не нумеровал папки до 8 урока...);
 
 [Урок - 4](https://sssrgo-web-dev-learn.github.io\урок-4\src\index.html "Сделанная работа 4-го урока") - Свёрстанная книга (потерял часть. не нумеровал папки до 8 урока...);
 
